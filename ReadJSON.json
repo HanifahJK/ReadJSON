@@ -1,12 +1,29 @@
 {
-    "Saudara Kandung Hanifah": [
+    "Keluarga Besar Hanifah": [
         {
-            "Nama": "Sholekah Firdausyah",
-            "Pendidikan": "UIN Sunan Kalijaga"
+            "Nama Ayah": "PURWANTO",
+            "Umur": "46 TAHUN",
+            "Pekerjaan": "WIRASWASTA"
         },
         {
-            "Nama": "Zain Arifah",
-            "singer": "MAN 2 WATES"
+            "Nama Ibu": "WINARSIH",
+            "Umur": "39 TAHUN",
+            "Pekerjaan": "IBU RUMAH TANGGA"
+        },
+        {
+            "Nama AnakKe-1": "HANIFAH JANNATUL KHOIR",
+            "Umur": "20 TAHUN",
+            "Pekerjaan": "MAHASISWA UNIVERSITAS TEKNOLOGI YOGYAKARTA"
+        },
+        {
+            "Nama Anak Ke-2": "SHOLEKAH FIRDAUSYAH",
+            "Umur": "19 TAHUN",
+            "Pekerjaan": "MAHASISWA UNIVERSITAS ISLAM NEGERI YOGYAKARTA"
+        },
+        {
+            "Nama Anak Ke-3": "ZAIN ARIFAH",
+            "Umur": " 15 TAHUN",
+            "Pekerjaan": "PELAJAR MAN2 NEGERI WATES"
         }
     ]
 }
