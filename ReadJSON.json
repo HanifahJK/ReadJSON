@@ -1,29 +1,32 @@
 {
-    "Keluarga Besar Hanifah": [
-        {
-            "Nama Ayah": "PURWANTO",
-            "Umur": "46 TAHUN",
-            "Pekerjaan": "WIRASWASTA"
-        },
-        {
-            "Nama Ibu": "WINARSIH",
-            "Umur": "39 TAHUN",
-            "Pekerjaan": "IBU RUMAH TANGGA"
-        },
-        {
-            "Nama AnakKe-1": "HANIFAH JANNATUL KHOIR",
-            "Umur": "20 TAHUN",
-            "Pekerjaan": "MAHASISWA UNIVERSITAS TEKNOLOGI YOGYAKARTA"
-        },
-        {
-            "Nama Anak Ke-2": "SHOLEKAH FIRDAUSYAH",
-            "Umur": "19 TAHUN",
-            "Pekerjaan": "MAHASISWA UNIVERSITAS ISLAM NEGERI YOGYAKARTA"
-        },
-        {
-            "Nama Anak Ke-3": "ZAIN ARIFAH",
-            "Umur": " 15 TAHUN",
-            "Pekerjaan": "PELAJAR MAN2 NEGERI WATES"
-        }
-    ]
+    "BIODATA HANIFAH": {
+        "Nama": "Hanifah Jannatul Khoir",
+        "Tempat Tanngal Lahir": "Bekasi, 24 Maret 1995",
+        "Alamat": "Kulon Progo Yogyakarta",
+        "Setatus": "Mahasiswa Universitas Teknologi Yogyakarta",
+        "Pendidikan": [
+            {
+                "TK": "Muhammadiyah Penggung",
+                "Tahun": "2001"
+            },
+            {
+                "SD": "MI Ma'arif Sendang",
+                "Tahun": "2007"
+            },
+            {
+                "SMP": "MTs Negeri Wates",
+                "Tahun": "2010"
+            },
+            {
+                "SMA": "MAN 2 Wates",
+                "Tahun": "2013"
+            },
+            {
+                "KULIAH": "Universitas Teknologi Yogyakarta",
+                "Tahun": "2013-sekarang"
+            }
+        ],
+        "Ini sekilas Biodata Ku -.-": [],
+        "Mana Biodata Mu ?": "Thanks You"
+    }
 }
